@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sorting Algorithm Visualization</title>
+    <link rel="stylesheet" href="style1.css"/>
+</head>
+<body>
+    <header>
+        <h1>Sorting Algorithm Visualization</h1>
+        <p>Visualize and understand different sorting algorithms</p>
+    </header>
+    <main>
+        <canvas id="myCanvas"></canvas>
+        <div class="controls">
+            <button onclick="init()">Init</button>
+            <button onclick="play()">Play</button>
+            <button onclick="pause()">Pause</button>
+            <button onclick="reset()">Reset</button>
+            <select id="algorithmSelect">
+                <option value="insertionSort">Insertion Sort</option>
+                <option value="bubbleSort">Bubble Sort</option>
+                <option value="selectionSort">Selection Sort</option>
+            </select>
+            <label for="speedRange">Speed:</label>
+            <input type="range" id="speedRange" min="1" max="10" value="5" oninput="updateSpeed(this.value)">
+        </div>
+        <div id="description"></div>
+    </main>
+    <script src="math.js"></script>
+    <script src="column.js"></script>
+    <script src="script1.js"></script>
+</body>
+</html>
