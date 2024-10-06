@@ -46,4 +46,4 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fake-news-detection.git
+   git clone https://github.com/nithin7204/fake-news-detection.git
