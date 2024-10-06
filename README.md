@@ -16,10 +16,10 @@ This repository showcases my journey through some of the projects I've worked on
 - **Technologies**: JavaScript, HTML5, CSS
 - [Explore Project](./Sorting_Algorithm_Visualizer/README.md)
 
-### 3. SMART E-Commerce Platform
-- **Overview**: A full-stack e-commerce platform that includes product management, search functionality, and a recommendation system based on browsing history. This project focuses on providing a scalable, user-friendly, and reliable system.
-- **Technologies**: React, Spring Boot, MySQL
-- [Explore Project](./SMART_Ecommerce_Platform/README.md)
+### 3. Notepad Clone using Java AWT and Swing
+- **Overview**: A simple Notepad clone built using Java's AWT and Swing libraries. This project replicates basic Notepad functionalities such as creating, editing, saving, and opening text files. The goal was to learn and apply GUI programming concepts in Java.
+- **Technologies**: Java, AWT, Swing
+- [Explore Project](./Notepad_Clone/README.md)
 
 ## Future Projects and Potential
 
