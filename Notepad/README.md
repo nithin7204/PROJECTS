@@ -54,5 +54,5 @@ This Notepad Clone allows the user to:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/notepad-clone.git
+   git clone https://github.com/nithin7204/notepad-clone.git
 
