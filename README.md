@@ -40,4 +40,4 @@ Feel free to explore the individual project folders and stay tuned for more upda
 
 **Nithin Kumar Kunchala**  
 BTech CSE (Data Science), Class of 2026  
-[LinkedIn](https://www.linkedin.com/in/nithin-kunchala-nithin-kumar-28b5612ba/) | [GitHub](https://github.com/nithin7204)
+[LinkedIn](https://www.linkedin.com/in/nithin-kumar-kunchala-28b5612ba/) | [GitHub](https://github.com/nithin7204)
