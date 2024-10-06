@@ -9,7 +9,7 @@ This repository showcases my journey through some of the projects I've worked on
 ### 1. Fake News Detection using Machine Learning
 - **Overview**: This project focuses on building a machine learning model to classify news articles as fake or real using natural language processing techniques. It explores various algorithms such as Logistic Regression, Naive Bayes, and Random Forest.
 - **Technologies**: Python, scikit-learn, Pandas, NLTK
-- [Explore Project](./Fake_News_Detection/README.md)
+- [Explore Project](Fake_new_detection/README.md)
 
 ### 2. Sorting Algorithm Visualizer
 - **Overview**: A web-based visualizer for common sorting algorithms such as Insertion Sort, Bubble Sort, and Selection Sort. The interface allows users to select the sorting algorithm, control the speed of the visualization, and observe how the algorithms work step-by-step.
